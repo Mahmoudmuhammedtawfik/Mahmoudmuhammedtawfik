@@ -12,9 +12,6 @@
 Improved operational efficiency by **28%** through comprehensive data-driven recommendations and performance analytics.
 
 ---
-### Sales Dashboard with Power BI
-
-[![Sales Dashboard](https://imgur.com/your-image-link.png)](https://www.linkedin.com/posts/your-post-link)
 
 ## 🧠 Skills & Tools
 
