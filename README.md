@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Mahmoud Tawfik</h1>
+<h1 align="center">Hello World!, I'm Mahmoud Tawfik 👋</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=450&lines=Data+Analyst+%7C+Business+Analyst" alt="Typing SVG" />
 </p>
