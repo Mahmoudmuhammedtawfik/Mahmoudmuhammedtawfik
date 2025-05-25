@@ -8,8 +8,7 @@
 
 ## 👋 About Me
 
-**Data Analyst & Business Analyst** with proven experience transforming complex datasets into actionable business insights across multiple industries.  
-Advanced proficiency in **SQL**, **Python**, and **Excel**, with strong expertise in **data visualization** and **statistical analysis**.  
+**Data Analyst & Business Analyst** with proven experience transforming complex datasets into actionable business insights across multiple industries, Advanced proficiency in **SQL**, **Python**, **Power BI**, **Tableau**, **Excel**, with strong expertise in **data visualization** and **statistical analysis**.  
 Improved operational efficiency by **28%** through comprehensive data-driven recommendations and performance analytics.
 
 ---
