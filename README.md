@@ -47,12 +47,6 @@ Improved operational efficiency by **28%** through comprehensive data-driven rec
   <a href="https://www.linkedin.com/in/tawfeq" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:mahmoudmtawfiq@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/mahmoudmuhammedtawfik" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="https://mahmoudmuhammedtawfik.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
@@ -60,7 +54,7 @@ Improved operational efficiency by **28%** through comprehensive data-driven rec
 
 ---
 
-## 📩 Hire Me
+## 📩 Hire Me Mail
 
 <p align="center">
   <a href="mailto:mahmoudmtawfiq@gmail.com">
